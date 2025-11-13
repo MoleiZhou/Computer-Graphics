@@ -4,11 +4,11 @@ COMP3421 / COMP9415 Computer Graphics 2024 T3
 **Group Name – Divers**
 
 Team Members:  
-- Anthony Lu – z5371988  
-- Ken Yu – z5257314  
-- Laya (Kairav) Dontamsetti – z5449842  
-- Molei Zhou – z5450750  
-- Tianxing (Tim) Xu – z5468823  
+- Anthony Lu 
+- Ken Yu 
+- Laya (Kairav) Dontamsetti 
+- Molei Zhou  
+- Tianxing (Tim) Xu   
 
 ---
 
