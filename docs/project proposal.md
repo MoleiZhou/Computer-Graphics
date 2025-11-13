@@ -49,7 +49,10 @@ We compare our game with similar titles including:
 
 ### Immersive Atmosphere Creation
 
-![Fig. 1](./images/fig1.jpg)![Fig. 2](./images/fig2.jpg)
+| ![Fig. 1](./images/fig1.jpg) | ![Fig. 2](./images/fig2.jpg) |
+|------------------------------|-------------------------------|
+| Fig. 1                       | Fig. 2                        |
+
 *Fig. 1 & 2 Resident Evil 7 atmosphere and Dark Pictures environmental design*
 
 Immersion can be achieved through:
@@ -70,8 +73,10 @@ However, to **compensate for immersion loss**, we introduce:
 - **Body-switch mechanic** (Level 4)  
 - **2.5D segments** (Level 3)  
 
-![Fig. 2](./images/fig2.png)  
-*Fig. 2 First-person vs third-person puzzle perspectives*
+| ![Fig. 3](./images/fig3.jpg) | ![Fig. 4](./images/fig4.png) |
+|------------------------------|-------------------------------|
+| Fig. 3                       | Fig. 4                        | 
+*Fig. 3 & 4 First-person vs third-person puzzle perspectives*
 
 ![Fig. 3](./images/fig3.png)  
 *Fig. 3 Body-switch examples from Resident Evil 2 & Dave the Diver*
