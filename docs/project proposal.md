@@ -86,7 +86,7 @@ However, to **compensate for immersion loss**, we introduce:
 *Fig. 5 & 6 Body-switch examples from Resident Evil 2 & Dave the Diver*
 
 ![Fig. 7](./images/fig7.png)  
-*Fig. 4 Little Nightmares II – Example of 2.5D immersive puzzle design*
+*Fig. 7 Little Nightmares II – Example of 2.5D immersive puzzle design*
 
 ---
 
@@ -104,8 +104,11 @@ Types referenced:
 - Prop combination  
 - Many more  
 
-![Fig. 5](./images/fig5.png)  
-*Fig. 5 Puzzle examples from Resident Evil Village and We Were Here Together*
+| ![Fig. 8](./images/fig5.png) | ![Fig. 9](./images/fig6.png) |
+|------------------------------|-------------------------------|
+| Fig. 8                       | Fig. 9                        | 
+
+*Fig. 8 & 9 Puzzle examples from Resident Evil Village and We Were Here Together*
 
 We identified key puzzle design challenges:
 - Too many puzzles → fatigue  
@@ -119,8 +122,11 @@ Thus, puzzles in our game stay:
 - Narrative-supporting  
 - Non-frustrating  
 
-![Fig. 6](./images/fig6.png)  
-*Fig. 6 Complex vs simple puzzle design comparison*
+| ![Fig. 10](./images/fig10.png) | ![Fig. 11](./images/fig11.png) |
+|------------------------------|-------------------------------|
+| Fig. 10                       | Fig. 11                        |  
+
+*Fig. 10 & 11 Complex vs simple puzzle design comparison*
 
 ---
 
@@ -130,8 +136,11 @@ Escape-room combat styles:
 1. **Direct combat** – shooting / melee  
 2. **Indirect combat** – puzzle-based enemy defeat  
 
-![Fig. 7](./images/fig7.png)  
-*Fig. 7 Combat systems from It Takes Two, Resident Evil, Sekiro*
+| ![Fig. 12](./images/fig12.png) | ![Fig. 13](./images/fig13.png) | ![Fig. 14](./images/fig14.png) |
+|------------------------------|-------------------------------|-------------------------------|
+| Fig. 12                       | Fig. 13                        | Fig. 14                        |
+
+*Fig. 12， 13 & 14 Combat systems from It Takes Two, Resident Evil, Sekiro*
 
 We balance action elements while preserving puzzle identity.
 
