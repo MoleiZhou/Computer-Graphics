@@ -76,11 +76,13 @@ However, to **compensate for immersion loss**, we introduce:
 | ![Fig. 3](./images/fig3.jpg) | ![Fig. 4](./images/fig4.jpg) |
 |------------------------------|-------------------------------|
 | Fig. 3                       | Fig. 4                        | 
+
 *Fig. 3 & 4 First-person vs third-person puzzle perspectives*
 
 | ![Fig. 5](./images/fig5.png) | ![Fig. 6](./images/fig6.png) |
 |------------------------------|-------------------------------|
 | Fig. 5                       | Fig. 6                        |  
+
 *Fig. 5 & 6 Body-switch examples from Resident Evil 2 & Dave the Diver*
 
 ![Fig. 7](./images/fig7.png)  
