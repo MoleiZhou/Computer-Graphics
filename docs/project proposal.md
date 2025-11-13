@@ -73,15 +73,17 @@ However, to **compensate for immersion loss**, we introduce:
 - **Body-switch mechanic** (Level 4)  
 - **2.5D segments** (Level 3)  
 
-| ![Fig. 3](./images/fig3.jpg) | ![Fig. 4](./images/fig4.png) |
+| ![Fig. 3](./images/fig3.jpg) | ![Fig. 4](./images/fig4.jpg) |
 |------------------------------|-------------------------------|
 | Fig. 3                       | Fig. 4                        | 
 *Fig. 3 & 4 First-person vs third-person puzzle perspectives*
 
-![Fig. 3](./images/fig3.png)  
-*Fig. 3 Body-switch examples from Resident Evil 2 & Dave the Diver*
+| ![Fig. 5](./images/fig5.jpg) | ![Fig. 6](./images/fig6.jpg) |
+|------------------------------|-------------------------------|
+| Fig. 5                       | Fig. 6                        |  
+*Fig. 5 & 6 Body-switch examples from Resident Evil 2 & Dave the Diver*
 
-![Fig. 4](./images/fig4.png)  
+![Fig. 7](./images/fig7.png)  
 *Fig. 4 Little Nightmares II – Example of 2.5D immersive puzzle design*
 
 ---
