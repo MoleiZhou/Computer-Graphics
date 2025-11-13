@@ -70,7 +70,7 @@ Although most escape room games use first-person for immersion, we adopt **third
 - Better combination with narrative  
 
 However, to **compensate for immersion loss**, we introduce:
-- **Body-switch mechanic** (Level 4)  
+- **Body-switch mechanic** (Level 3)  
 - **2.5D segments** (Level 3)  
 
 | ![Fig. 3](./images/fig3.jpg) | ![Fig. 4](./images/fig4.jpg) |
