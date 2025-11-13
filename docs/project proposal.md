@@ -49,8 +49,8 @@ We compare our game with similar titles including:
 
 ### Immersive Atmosphere Creation
 
-![Fig. 1](./images/fig1.jpg)  
-*Fig. 1 Resident Evil 7 atmosphere and Dark Pictures environmental design*
+![Fig. 1](./images/fig1.jpg)![Fig. 2](./images/fig2.jpg)
+*Fig. 1 & 2 Resident Evil 7 atmosphere and Dark Pictures environmental design*
 
 Immersion can be achieved through:
 - Novel gameplay  
