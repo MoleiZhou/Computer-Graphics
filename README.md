@@ -133,18 +133,6 @@ This includes:
 
 ---
 
-## 👥 Team Members
-
-| Name                 | zID      | Contribution                          |
-|----------------------|----------|---------------------------------------|
-| **Anthony Lu**       | z5371988 | Level 5 (Enemy & Boss Design)        |
-| **Ken Yu**           | z5257314 | Level 1 (Laser Puzzle System)        |
-| **Kairav Dontamsetti** | z5449842 | Level 2 (Code & Chemical Puzzle)  |
-| **Molei Zhou**       | z5450750 | Level 3 (Shadow & Memory Puzzles)    |
-| **Tianxing (Tim) Xu** | z5468823 | Level 4 (Body-Switch Maze)         |
-
----
-
 ## 🧰 Technologies Used
 - Unreal Engine 5  
 - Blueprint Visual Scripting  
