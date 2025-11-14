@@ -71,7 +71,7 @@ A note is placed on the table:
 After closing the note, you may look at the display screen to observe the **color change sequences**.
 
 ### 🎛 Display Behavior
-- The display does **not** loop colors continuously (for difficulty reasons).  
+- The display does **not** loop colors continuously.  
 - To view the color sequence again:
   1. Interact with the door lock  
   2. Click **“Finish”**  
@@ -118,28 +118,7 @@ After successfully walking the correct path:
 
 ---
 
-# 📌 Summary
 
-Level 3 contains:
-- **Shadow rotation precision puzzle**
-- **Color memory display puzzle**
-- **Randomized floor path memorization puzzle**
-
-Each room requires:
-- Careful observation  
-- Memory  
-- Spatial reasoning  
-- Light puzzle-solving knowledge  
-
-This Level 3 standalone build demonstrates the mechanics that appear in the full DeepDive project.
-
----
-
-# 📚 Appendix
-
-### Original Document Reference  
-This markdown is adapted from the provided PDF:  
-:contentReference[oaicite:2]{index=2}
 
 
 
