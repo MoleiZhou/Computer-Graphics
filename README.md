@@ -86,7 +86,7 @@ A 2.5D maze with:
 
 ---
 
-## 🕹 Interaction System
+## Interaction System
 
 | Category      | Examples                                                                 |
 |--------------|--------------------------------------------------------------------------|
