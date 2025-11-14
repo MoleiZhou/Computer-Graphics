@@ -1,5 +1,5 @@
 # Deep Dive: Experiment M  
-**COMP3421 / COMP9415 – Computer Graphics 2024 T3**  
+**COMP9415 – Computer Graphics 2024 T3**  
 
 > A 3D narrative-driven escape-room puzzle adventure built with Unreal Engine 5.  
 > Featuring five unique puzzle levels, environmental storytelling, and a climactic boss encounter.
