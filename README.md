@@ -1,4 +1,4 @@
-# 🎮 Deep Dive: Experiment M  
+# Deep Dive: Experiment M  
 **COMP3421 / COMP9415 – Computer Graphics 2024 T3**  
 
 > A 3D narrative-driven escape-room puzzle adventure built with Unreal Engine 5.  
@@ -6,39 +6,39 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 **Deep Dive: Experiment M** is a single-player 3D escape-room adventure set inside an abandoned underground biological research institute.  
 Players explore five floors filled with puzzles, hidden clues, environmental storytelling, and dangerous mutated subjects.  
 Your mission: uncover what happened, assemble the Lure, defeat the final creature, and escape before demolition occurs.
 
 The game blends:
 
-- 🧩 Escape-room puzzle design  
-- 🌌 Narrative exploration  
-- 🔦 Atmospheric horror  
-- 🧪 Chemical & scientific interactions  
-- 🤖 Character–Drone dual control  
-- 💥 Light combat + environmental trap systems  
+- Escape-room puzzle design  
+- Narrative exploration  
+- Atmospheric horror  
+- Chemical & scientific interactions  
+- Character–Drone dual control  
+- Light combat + environmental trap systems  
 
 ---
 
-## ✨ Core Features
+## Core Features
 
-### 🧩 Multi-Mechanic Puzzle Experience
+### Multi-Mechanic Puzzle Experience
 Every floor introduces a new mechanic:
-- 🔺 **Level 1:** Laser & mirror reflection  
-- 🔤 **Level 2:** Symbolic language decoding, blacklight clues, pipe & chemical puzzles  
-- 🌑 **Level 3:** Shadow matching, colour memory tests, path memorisation  
-- 🤖 **Level 4:** Body-switch maze (Human ↔ Drone) with box pushing & hazards  
-- 🧟 **Level 5:** Enemy combat + binary-search scanner + trap assembly  
+- **Level 1:** Laser & mirror reflection  
+- **Level 2:** Symbolic language decoding, blacklight clues, pipe & chemical puzzles  
+- **Level 3:** Shadow matching, colour memory tests, path memorisation  
+- **Level 4:** Body-switch maze (Human ↔ Drone) with box pushing & hazards  
+- **Level 5:** Enemy combat + binary-search scanner + trap assembly  
 
-### 🔦 Immersive Horror Environment
+### Immersive Horror Environment
 - Third-person perspective for cinematic storytelling  
 - Gradual lighting shift from **cold blue → sickly green** as danger increases  
 - Abandoned facility aesthetics: damaged equipment, scattered papers, broken furniture  
 - Hidden narrative clues across all levels  
 
-### 🧪 Narrative-Driven Progression
+### Narrative-Driven Progression
 Find out:
 - What the researchers were experimenting on  
 - Why the test subjects mutated  
@@ -47,7 +47,7 @@ Find out:
 
 Collect **4 Lure Components** (one per level), then assemble them in Level 5.
 
-### 🧟 Escape-Room × Boss Encounter Hybrid
+### Escape-Room × Boss Encounter Hybrid
 A rare combination in the genre:
 - Freeze Ray & Shotgun  
 - Environmental trap building  
@@ -56,7 +56,7 @@ A rare combination in the genre:
 
 ---
 
-## 🗺 Level Overview
+## Level Overview
 
 ### 1️⃣ Level 1 – Lasers & Mirrors
 Use adjustable mirrors to redirect lasers, break debris, unlock mechanisms, and access the next floor.
@@ -90,15 +90,15 @@ A 2.5D maze with:
 
 | Category      | Examples                                                                 |
 |--------------|--------------------------------------------------------------------------|
-| 🎮 Universal | Movement, camera, interacting, picking items, inventory                  |
-| 🧩 Puzzle    | Mirrors, blacklight, valves, chemical mixing, shadows, buttons          |
-| 🤖 Drone     | Flying, lighting dark areas, pressing remote triggers                    |
-| 🧱 Environment | Breaking debris, pushing boxes, activating triggers                    |
-| 🔫 Combat    | Freeze Ray, Shotgun, Lure throwing, trap activation                      |
+| Universal | Movement, camera, interacting, picking items, inventory                  |
+| Puzzle    | Mirrors, blacklight, valves, chemical mixing, shadows, buttons          |
+| Drone     | Flying, lighting dark areas, pressing remote triggers                    |
+| Environment | Breaking debris, pushing boxes, activating triggers                    |
+| Combat    | Freeze Ray, Shotgun, Lure throwing, trap activation                      |
 
 ---
 
-## 🎨 Visual & Art Direction
+## Visual & Art Direction
 - Realistic UE5 lighting  
 - Gradual colour shifts for tension building  
 - Heavy environmental storytelling  
@@ -108,7 +108,7 @@ A 2.5D maze with:
 
 ---
 
-## 🛠 Technical Highlights
+## Technical Highlights
 - Third-person perspective (rare for escape-room genre)  
 - Puzzle-solving integrated into combat design  
 - Modular level structure with persistent items  
@@ -118,7 +118,7 @@ A 2.5D maze with:
 
 ---
 
-## 📄 Full Proposal
+## Full Proposal
 The complete detailed proposal is available in:
 
 👉 `docs/Computer Graphics_A1_Proposal.release.pdf`  
@@ -133,7 +133,7 @@ This includes:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 - Unreal Engine 5  
 - Blueprint Visual Scripting  
 - C++ Gameplay Extensions  
@@ -144,7 +144,7 @@ This includes:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Cutscenes & voice-over logs  
 - Advanced combat polish  
 - Complete sound design  
@@ -153,7 +153,7 @@ This includes:
 
 ---
 
-## 📜 License
+## License
 MIT License
 
 Copyright (c) 2025 Ethan
