@@ -121,7 +121,7 @@ A 2.5D maze with:
 ## 📄 Full Proposal
 The complete detailed proposal is available in:
 
-👉 `docs/proposal.md`  
+👉 `docs/Computer Graphics_A1_Proposal.release.pdf`  
 
 This includes:
 - Full narrative  
