@@ -52,7 +52,12 @@ In the first room, players must **rotate four objects** so that their shadows **
 When a player clicks **“Finish”**, if the rotation is correct, a **clear confirmation sound** will play.
 
 ### 🖼 Sample Answers
-Below are four reference example answers (images to be added later):
+Below are four reference example answers:
+
+| ![img1](./images/cheating_puzzle_1.png) | ![img2](./images/cheating_puzzle_2.png) |
+|----------------------------|----------------------------|
+| ![img3](./images/cheating_puzzle_3.png) | ![img4](./images/cheating_puzzle_4.png) |
+
 
 ### 📌 Tips
 - Sometimes only **small adjustments** are needed to solve the puzzle.
