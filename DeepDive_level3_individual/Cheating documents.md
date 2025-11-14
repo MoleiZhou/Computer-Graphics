@@ -1,6 +1,5 @@
 # DeepDive – Level 3 (Individual Level Documentation)
 *This document describes the individual Level 3 of DeepDive, including download links, puzzle instructions, and room-by-room mechanics.*  
-Source: :contentReference[oaicite:1]{index=1}
 
 ---
 
