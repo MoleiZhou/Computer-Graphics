@@ -7,7 +7,7 @@
 
 ### 📥 **Individual Level Download (Google Drive)**
 Level demonstration video：https://drive.google.com/file/d/1UlgZmrYF-cvJqDK-ATImaGjHmz7nRXZT/view?usp=sharing
-https://drive.google.com/file/d/1qK1VefqbikIZyLM3-zsKbrTsjRErvpDr/view?usp=sharing
+Complete level package: https://drive.google.com/file/d/1qK1VefqbikIZyLM3-zsKbrTsjRErvpDr/view?usp=sharing
 
 ### 📦 **Packaged Build Location**  
 DeepDive_Level3_Individual.zip
